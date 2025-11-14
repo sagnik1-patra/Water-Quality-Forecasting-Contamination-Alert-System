@@ -1,0 +1,6 @@
+best_params:
+  dropout: 0.16336061157253157
+  gru_units: 37
+  learning_rate: 0.0044319133864187885
+  lstm_units: 39
+optimizer: Hybrid AIS + PSO

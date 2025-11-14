@@ -1,0 +1,6 @@
+best_params:
+  dropout: 0.4592367092906805
+  gru_units: 118
+  learning_rate: 0.0008289638447524453
+  lstm_units: 82
+optimizer: Hybrid QPSO + HHO
